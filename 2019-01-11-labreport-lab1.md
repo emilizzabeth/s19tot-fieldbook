@@ -1,6 +1,14 @@
-#this is a title
+---
+layout: post
+title: "LAB REPORT 1"
+subheadline: ""
+categories:
+    - fieldbooks
+author: "Emily Hassell"
+comments: false
+---
 
-###this is a subtitle
+##Lab Report Prompt 1
 
 and **this** is some _**fun**_ text.
 
