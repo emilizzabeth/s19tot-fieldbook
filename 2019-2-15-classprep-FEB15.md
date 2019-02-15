@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Class Preparation"
+subheadline: "15 Feb"
+categories:
+    - fieldbooks
+author: "Emily Hassell"
+comments: false
+---
+
+## Class Preparation
+### February 15
+
+What strikes me the most about these three articles is the use of text and type beyond words to convey meaning.  In the en-space piece, this meant how emptiness as an emotion can be conveyed by emptiness on a page, and why what's missing (the space) is almost as important to comprehension to what is there (letters).  That is to say, we wouldn't have words without the space, maybe just a never-ending string of information. In the "Smiley" piece, type is used to convey feeling or pictures. In this piece particularly, I found it amusing to note how much time was spent considering what the typeface sign for humor should be, and how one still doesn't exist. Is it _italics_? Is it /s? Nobody can really agree. Yet, it was also mentioned that tone rarely comes through in text - I disagree. Perhaps in some writing, the tone can be misunderstood, but today's writers and interface-users are getting better and better at conveying tone not only with extraneous symbols, but also straight text. Twitter in particular comes to mind, and while the user mostly assumes much of the content on the site is humor-based, it is fairly easy to interpret the tone of the joke itself, especially in the last few years as more and more people have adapted to use of the platform. As for the article on typeface, the words and their meaning weren't as important as the design of the letters used. I hadn't known that CERN used Comic Sans for the Higgs Boson presentation (and I think that is _hilarious_ - I guess that goes to prove that the author's thesis on font-perception is true). Yet, at the same time, I never considered that small type differences, like those of Georgia and Times New Roman, could really impact perception _that_ significantly. It kind of makes me wonder how much of daily life is impacted by font choice. Would people eat healthier/understand food labels better if nutrition facts were in a different font? What about price labels? And program fonts - how is our usage of computers impacted by the font on the computer itself? In sum: we interact with typeface **a lot** in a day. How could this knowledge of font persuasion be used in our favor, and against us?
+
+The font I chose from _Kern Your Enthusiasm_ was the Todd Klone Roman font. I took Hillary Chute's _The Graphic Novel_ course last semester, so this one immediately stuck out at me as familiar (despite not actually being used in any of the books we read). Though not demonstrated in this font, the _Kern your Enthusiasm_ page on the font mentions Klone's ability to convey language and species through a mere font design, which somewhat begs the question: what is this font saying about the content it presents? It's fairly uniform and the reader's eyes glide over it, but the font still has a bit of an edge to it, making the reader feel some sort of excitement. It's also all uppercase lettering. Klein describes his fonts as "an extension of my personal style," so it is also perhaps possible that this is his initial default font, and thus has no implications. 
