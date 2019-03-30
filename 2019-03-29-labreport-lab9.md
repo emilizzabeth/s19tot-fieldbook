@@ -1,0 +1,18 @@
+---
+layout: post
+title: "LAB REPORT 9"
+subheadline: "March 29"
+categories:
+    - fieldbooks
+author: "Emily Hassell"
+comments: false
+---
+
+## Lab Report 9
+### Mar 29
+
+Using _Lovelace & Babbage_ as a starting point, Marian Evans might have been okay with transforming text into data, assuming the process was not destructive as it is in the book. However, "destructive" - while taken quite literally in _Lovelace & Babbage_ could still somewhat be applied to the lab we did in class. In transforming Austen's texts into pure data, we took away all the things that make her novels wonderful and stripped it down to the bare bones of facts and figures, words without emotion. This, to me, seems destructive, even if not in the common use of the word. Marian Evans might see it the same way, or perhaps be thrilled to have new information related to her craft. She is portrayed in _Lovelace & Babbage_ as having interest in mathematical thinking and in the difference machine, so perhaps this data might at least be of interest to her.
+
+When thinking about literature as data, I again go back to the idea of it being "destructive." This is what I would consider the downside: without the context, the emotion, and the interconnectivity, literature just becomes text and there is little to set it apart from an encyclopedia or a paper receipt. It's just words and information, while much literature is intended to evoke some sort of reaction or greater thought. By breaking literature down to data, we run the risk of literature becoming too manufactured and marketed to target the best of everything, much like movies that try to hard to please everyone and fit every category but ultimately fail because they didn't dare step outside the box and take a risk. With too much data, literature might become cookie-cutter as everyone attempts to reproduce the same content based on data and popularity. There would also be upsides, I suppose, such as learning how humans write and speak, which could offer linguists much material to work with, or small improvements that could help writers shape their craft to be more effective novelists (or whatever slice of writing they happen to occupy). 
+
+Thinking back to the bots, though, I think humans and machines can work together to create literature and alter how we perceive it. Sometimes bots create more humanistic and emotional tweets than an actual human could (specifically the more serious of poetry bots). Sometimes they write flawed sentences that shouldn't be appealing, yet humans find hilarious or interesting anyways. These are just two ways perception and creation are altered by human and machine interaction. There definitely is a way to incorporate machines and consider them a part of "human texts," - twitter is always a great example of that. However, I don't think there is room _just_ yet for machines on the authorship side of printed literature. There is definitely room for them in the data analysis side, that is for sure. The information is fascinating to the average person (like me) and probably incredibly useful to marketers, linguists, historians, and all sorts of fields. Data is (usually) a good thing, and machines can help provide that in literature, something that previously would have been too time consuming to analyze with human interaction alone. Though it might be "destructive" as earlier discussed, there are probably more net positives to having this data than to continue on disregarding machines and excluding them from one of our main modes of communication, writing.
